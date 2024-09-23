@@ -13,4 +13,5 @@ question_data = [
     {"text": "An octopus has three hearts.", "answer": "True"},
     {"text": "Water boils at 90 degrees Celsius at sea level.", "answer": "False"},
     {"text": "Honey never spoils.", "answer": "True"},
+    {"text": "Strawberries have seeds outside of the fruit", "answer": "True"},
 ]
