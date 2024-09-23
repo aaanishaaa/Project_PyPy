@@ -1,0 +1,16 @@
+question_data = [
+    {"text" : "A slug's blood is green.","answer": "True"},
+    {"text": "The Great Wall of China is visible from space.", "answer": "False"},
+    {"text": "Lightning never strikes the same place twice.", "answer": "False"},
+    {"text": "Humans and giraffes have the same number of neck vertebrae.", "answer": "True"},
+    {"text": "Goldfish have a memory span of only three seconds.", "answer": "False"},
+    {"text": "A group of flamingos is called a 'flamboyance'.", "answer": "True"},
+    {"text": "Humans can breathe and swallow at the same time.", "answer": "False"},
+    {"text": "Venus is the hottest planet in the solar system.", "answer": "True"},
+    {"text": "A crocodile cannot stick its tongue out.", "answer": "True"},
+    {"text": "Mount Everest is the tallest mountain in the world.", "answer": "True"},
+    {"text": "The moon has its own light source.", "answer": "False"},
+    {"text": "An octopus has three hearts.", "answer": "True"},
+    {"text": "Water boils at 90 degrees Celsius at sea level.", "answer": "False"},
+    {"text": "Honey never spoils.", "answer": "True"},
+]
